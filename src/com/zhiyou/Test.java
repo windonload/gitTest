@@ -10,5 +10,6 @@ package com.zhiyou;
 public class Test {
 	public static void main(String[] args) {
 		System.out.println("测试项目");
+		System.out.println("测试git修改项目");
 	}
 }
